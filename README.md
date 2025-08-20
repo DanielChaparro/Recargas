@@ -17,7 +17,12 @@ El modelo se basa en las siguientes tablas principales:
 
 ### 📊 Diagrama Entidad-Relación
 
-![Diagrama ER](./docs/DiagramaClases.png)
+![Diagrama ER](./docs/DiagramaRelacional.png)
+
+
+### 📊 Diagrama Clases
+
+![Diagrama CL](./docs/DiagramaClases.png)
 
 ---
 
