@@ -17,7 +17,7 @@ El modelo se basa en las siguientes tablas principales:
 
 ### 📊 Diagrama Entidad-Relación
 
-![Diagrama ER](./docs/Prueba Gelsa-Diagrama de Clases.drawio.png)
+![Diagrama ER](./docs/DiagramaClases.png)
 
 ---
 
