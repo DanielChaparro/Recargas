@@ -29,7 +29,7 @@ El modelo se basa en las siguientes tablas principales:
 ## ⚙️ Requisitos Técnicos
 
 - **Java 21** (Amazon Corretto recomendado)
-- **Spring Boot 3.5.4
+- **Spring Boot 3.5.4**
 - **Maven 3.9+**
 - **Base de datos**: PostgreSQL (configurable)
 - **Git**
@@ -41,4 +41,4 @@ El modelo se basa en las siguientes tablas principales:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/recargas-spring.git
-   cd recargas-spring
+   cd recargas
